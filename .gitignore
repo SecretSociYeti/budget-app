@@ -25,4 +25,21 @@ hs_err_pid*
 # Mac OS
 .DS_Store
 
-# Test 
+# Maven
+target/
+
+### STS // Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*/*.iml
+
