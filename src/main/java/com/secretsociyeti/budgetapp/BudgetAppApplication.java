@@ -8,5 +8,8 @@ public class BudgetAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BudgetAppApplication.class, args);
+		
+		System.out.println("Hello World 2");
+		
 	}
 }
